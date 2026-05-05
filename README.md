@@ -5,10 +5,10 @@ Full Stack Term Project
 [Minimum Viable Product Demonstration Video Link](https://uncg-my.sharepoint.com/:v:/g/personal/jxpickett_uncg_edu/IQCiTfqlHNCJSbqtgn-nTPfTATptfCMT-uzeCGXLOtCKPjc?e=n4pVFI)
 
 **Deployed URL:**
-[Deployed Application External URL]()
+[Deployed Application External URL](https://csc372-term.onrender.com)
 
 **Reflection:**
-[Reflection Write-up Link]()
+[Reflection Write-up Link](https://docs.google.com/document/d/1NQ3CUicUF6qYlDGZyQy5P87r218qUshHPKnVZ0gIt74/edit?usp=sharing)
 
 # EchoJournal - Local Setup Guide
 

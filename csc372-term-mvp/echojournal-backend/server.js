@@ -1,3 +1,4 @@
+"use strict";
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
@@ -6,7 +7,7 @@ const jwt = require('jsonwebtoken');
 const { Pool } = require('pg');
 
 const app = express();
-const PORT = process.env.PORT || 3000; // To ensure it gets the port right, but I don't ever use this
+const PORT = process.env.PORT || 3000; //To ensure it gets the port right, but I don't ever use this
 
 app.use(cors());
 app.use(express.json());
